@@ -1,4 +1,4 @@
-﻿namespace ConsoleApplication
+namespace ConsoleApplication
 {
     internal class Transition
     {
@@ -7,7 +7,7 @@
 
         private void DoTransition()
         {
-
+            Debug.Print("test")
         }
     }
 }
